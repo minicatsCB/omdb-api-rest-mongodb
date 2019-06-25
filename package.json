@@ -1,0 +1,27 @@
+{
+  "name": "omdb-api-rest-mongodb",
+  "version": "1.0.0",
+  "description": "omdb-api-rest-mongodb",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minicatsCB/omdb-api-rest-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minicatsCB/omdb-api-rest-mongodb/issues"
+  },
+  "homepage": "https://github.com/minicatsCB/omdb-api-rest-mongodb#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "mongoose": "5.6.1"
+  }
+}
